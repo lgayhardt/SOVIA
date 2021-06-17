@@ -1,9 +1,4 @@
-from azure.cognitiveservices.vision.computervision import ComputerVisionClient
-from azure.cognitiveservices.vision.computervision.models import OperationStatusCodes
-from azure.cognitiveservices.vision.computervision.models import VisualFeatureTypes
-from msrest.authentication import CognitiveServicesCredentials
 
-from azure.cognitiveservices.vision.customvision.training import CustomVisionTrainingClient
 from azure.cognitiveservices.vision.customvision.prediction import CustomVisionPredictionClient
 from azure.cognitiveservices.vision.customvision.training.models import ImageFileCreateBatch, ImageFileCreateEntry, Region
 from msrest.authentication import ApiKeyCredentials
