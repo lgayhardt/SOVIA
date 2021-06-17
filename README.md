@@ -15,7 +15,7 @@ Video Demo features 7 different Monet paintings.
  
 Select image above to video the demo on youtube.
 
-## Downablable excludable 
+## Downablable executable 
 
 Each time you run the file a random Monet landscape image will be select as well as different sounds for each object type. Computer Vision is then applied to the image to determine the objects presented. Slowly move your mouse across the image to find and hear sounds. 
 
@@ -27,13 +27,13 @@ Select the right [zip file](https://github.com/lgayhardt/SOVIA/releases/tag/V1) 
 
 Steps:
 1. Download SOVIA_Monet_Windows.zip
-2. Run excludable able file SOVIA_Monet.exe
+2. Run executable able file SOVIA_Monet.exe
 
 ### Mac OS 
 
 Steps: 
 1. Download SOVIA_Monet_MacOS.zip
-2. To run excludable file  select run_SOVIA_Moent.commad or run the excluable file SOVIA_Monet in terminal
+2. To run executable file  select run_SOVIA_Moent.commad or run the excluable file SOVIA_Monet in terminal
 
 ## Audio and Images Resources
 
