@@ -35,6 +35,6 @@ Steps:
 1. Download SOVIA_Monet_MacOS.zip
 2. To run excludable file  select run_SOVIA_Moent.commad or run the excluable file SOVIA_Monet in terminal
 
-## Acknowledgements
+## Audio and Images Resources
 
- Sounds and music are from Zapsplat, Freesound, Mixkit, and Avosound. Monet Images are from Wiki Art. 
+ Sounds and music are from Zapsplat, Freesound, Mixkit, and Avosound. Monet paintings are from Wiki Art. 
